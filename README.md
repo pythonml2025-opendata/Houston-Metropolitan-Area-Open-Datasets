@@ -37,20 +37,26 @@ Interactive portal with downloadable GIS and tabular data across domains: public
 
 1. H-GAC Regional GIS Data Hub
 Houston–Galveston Area Council’s ArcGIS-focused hub with hundreds of regional GIS datasets ready for download. 
-gishub-h-gac.hub.arcgis.com
+<https://gishub-h-gac.hub.arcgis.com/>
 
 2. TxDOT Open Data Portal
-Texas Department of Transportation’s ArcGIS portal offering downloadable transportation datasets (roads, traffic, etc.). 
-gis-txdot.opendata.arcgis.com
+Texas Department of Transportation’s ArcGIS portal offering downloadable transportation datasets (roads, traffic, etc.)
+<https://gis-txdot.opendata.arcgis.com/>
 
-3. Texas Open Data Portal (Data.Texas.Gov)
+4. Texas Open Data Portal
 Centralized state-level open data source covering health, demographics, natural resources, water, real estate, and more—with a dedicated Houston section.
+<https://data.texas.gov/>
+
+# Federal & Thematic Datasets  
+
+1. US Federal Open Data Catalog  
+Contains federal datasets relevant to Houston, such as groundwater-level changes, water quality during Hurricane Harvey, and mosquito blood meal analysis—all downloadable in formats like XML, ZIP, or TEXT.  
+<https://data.gov/>
+
+2. Weather for flood modeling, civil engineering, and risk assessment.
+<https://hdsc.nws.noaa.gov/pfds/>
 
 
-# Federal & Thematic Datasets (Houston-specific)
-
-data.gov (US Federal Open Data Catalog)
-Contains federal datasets relevant to Houston, such as groundwater-level changes, water quality during Hurricane Harvey, and mosquito blood meal analysis—all downloadable in formats like XML, ZIP, or TEXT. 
 
 
 
